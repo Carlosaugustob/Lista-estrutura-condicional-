@@ -8,7 +8,7 @@
         JOptionPane.QUESTION_MESSAGE,
         null,
         new Object[]{
-            "", "PR", "RSw", "SC"
+            "", "PR", "RS", "SC"
         },
         ""
     ).toString();
